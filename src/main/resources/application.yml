@@ -10,6 +10,8 @@ spring:
         git:
           uri: https://github.com/soulgrid/Configs
           default-label: master
+#          username:
+#          password:
 
 #management:
 #  endpoints:
